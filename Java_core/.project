@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Java_core</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/threads/Main.class</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Main.class</locationURI>
+		</link>
+		<link>
+			<name>src/threads/MyQueue.class</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/MyQueue.class</locationURI>
+		</link>
+		<link>
+			<name>src/threads/TestThread$A.class</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/TestThread$A.class</locationURI>
+		</link>
+		<link>
+			<name>src/threads/TestThread$B.class</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Desktop/TestThread$B.class</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
