@@ -3,7 +3,7 @@ package abstractt;
 public class AbstractDemo1 extends AbstractDemo {
 
 	@Override
-	void show() {
+	void show() {ffff
 		// TODO Auto-generated method stub
 		System.out.println(name);
 
