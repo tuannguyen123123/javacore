@@ -1,7 +1,7 @@
 package abstractt;
 
 abstract class AbstractDemo {
-	String name;
+	String name;fgfgfgfgf
 	abstract void show();
 	abstract void show2();
 }
